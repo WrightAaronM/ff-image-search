@@ -1,2 +1,1 @@
-- Get icons
-- Add icons to the manifest file
+- Package and distrubute on Mozilla plugin directory
