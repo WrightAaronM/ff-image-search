@@ -1,0 +1,2 @@
+- Get icons
+- Add icons to the manifest file
